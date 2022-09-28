@@ -1,5 +1,5 @@
 app:
-  applicationId: ${APP_ID:8454c127-64aa-490e-a151-54ae287ee8f1}
+  applicationId: ${APP_ID:4d4aa4a6-b90f-449e-adb0-caa36d44a1b9}
   env: ${APP_ENV:build-action}
   host: ${APP_HOST:https://localhost:9000}
   excludePaths:
